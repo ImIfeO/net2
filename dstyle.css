@@ -341,7 +341,7 @@ h3{
         width:5px;
     }
     ::-webkit-scrollbar-thumb{
-        background-color: rgb(39, 39, 39);
+        background-color: black;
         border-radius: 10px;
     }
     .wrapper{
