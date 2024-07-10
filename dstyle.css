@@ -152,7 +152,8 @@ body{
     display: flex;
 }
 .fav{
-    padding-bottom: 15px;
+    padding-bottom: 30px;
+        padding-top: 15px;
 }
 .coin_area .coin_container{ 
     width: 100%;
@@ -248,7 +249,8 @@ h3{
 }
 .ass{
     padding-left: 6px;
-    padding-bottom: 15px;
+    padding-bottom: 30px;
+    padding-top: 15px;
     
 }
 .asset{
