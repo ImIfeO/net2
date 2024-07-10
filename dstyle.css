@@ -619,7 +619,7 @@ h3{
 .asset1 .asset  .percent{
     color: green;
     font-size: 11px;
-    padding-left: 50%;
+    padding-left: 5%;
     
     padding-top: 15px;
 }
@@ -627,13 +627,13 @@ h3{
     color: red;
     font-size: 11px;
     padding-top: 15px;
-    padding-left: 60%;
+    padding-left: 7%;
 }
 .asset3 .asset  .percent{
     color: green;
     font-size: 11px;
     padding-top: 15px;
-    padding-left: 55%;
+    padding-left: 6%;
 }
 
 
