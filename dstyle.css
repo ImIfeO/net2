@@ -21,7 +21,7 @@ body{
 .wrapper{
     flex-grow: 1;
     padding:20px;
-    padding-top:50px;
+    padding-top:30px;
     display: flex;
     /* align-items: start;
     justify-content:start ; */
@@ -347,7 +347,7 @@ h3{
     .wrapper{
         flex-grow: 1;
         padding:10px;
-        padding-top:30px;
+        padding-top:50px;
         display: flex;
         /* align-items: start;*/
         justify-content:start ; 
